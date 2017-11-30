@@ -1,0 +1,10 @@
+img {
+  width: 60px ;
+  height: 60px;
+}
+
+.navbar
+{background-color:#597272;min-height:70px;margin-bottom:0}
+
+.navbar-text
+{font-family:IBMPlexSans-Text;font-size:26px;color:#FFFFF0;margin-left:15px}
