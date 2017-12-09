@@ -1,0 +1,31 @@
+<div class="welcome">
+    <carousel class ="slider">
+    <slide>
+    <img src="./assets/img/1.png" alt="First slide">
+    <div class="carousel-caption d-none d-md-block">
+    </div>
+  </slide>
+  <slide>
+    <img src="./assets/img/2.jpg" alt="Second slide">
+    <div class="carousel-caption d-none d-md-block">
+    </div>
+  </slide>
+  <slide>
+    <img src="./assets/img/3.jpg" alt="Third slide">
+    <div class="carousel-caption d-none d-md-block">
+    </div>
+  </slide>
+</carousel>
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col col-12 col-md-5 p-3 p-md-5">
+        <h3>{{about.description }}</h3>
+        <p><a routerLink="../infopage" class="btn btn-default" role="button">{{ about.action }}</a></p>
+        </div>
+      <div class="col col-12 col-md-5 p-3 p-md-5">
+        <h3>{{create.description }}</h3>
+        <p><a routerLink="../report-page" class="btn btn-default" role="button">{{ create.action }}</a></p>
+      </div>
+    </div>
+  </div>
+</div>

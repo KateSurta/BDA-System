@@ -12,14 +12,20 @@ import { ModalModule } from 'ngx-bootstrap/modal';
 import { LoginComponent } from './common/login/login.component';
 import { ReportPageComponent } from './report-page/report-page.component';
 import {FormsModule} from '@angular/forms';
-
+import { HomepageComponent } from './homepage/homepage.component';
+import { WelcomeComponent } from './homepage/welcome/welcome.component';
+import { CarouselModule } from 'ngx-bootstrap/carousel';
+import { InfopageComponent } from './infopage/infopage.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     LoginComponent,
-    ReportPageComponent
+    ReportPageComponent,
+    HomepageComponent,
+    WelcomeComponent,
+    InfopageComponent
   ],
   imports: [
     BrowserModule,
@@ -28,7 +34,8 @@ import {FormsModule} from '@angular/forms';
     FormsModule,
     BsDropdownModule.forRoot(),
     TooltipModule.forRoot(),
-    ModalModule.forRoot()
+    ModalModule.forRoot(),
+    CarouselModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -4,11 +4,10 @@ img {
   fill: #20c997;
 }
 
-
-
-
 .navbar
-{background-color:#343a40;min-height:70px;margin-bottom:0}
+{
+  background-color: #563d7c;
+min-height:70px;margin-bottom:0}
 
 .navbar-text
 {font-family:Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;font-size:26px;color:#FFFFF0;margin-left:15px}
