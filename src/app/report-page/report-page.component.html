@@ -1,5 +1,50 @@
-<h1 class="center-block">Параметры отчета</h1>
-<form class="form-horizontal">
+<div class="container">
+  <h1 class="center-block">Параметры отчета</h1>
+  <form #f="ngForm" class="form-horizontal row row-list" novalidate>
+    <div class="form-group col-4 col-md-4">
+      <label class="col-12 col-md-12 control-label">Выберите банки для сравнения</label>
+      <div *ngFor="let bank of allData.Banks; let i = index;">
+        <label class="custom-control custom-checkbox">
+          <input type="checkbox" class="custom-control-input" [checked]="!settings.banks[id]" (change)="handleChange(bank.ID)">
+          <span class="custom-control-indicator"></span>
+          <span class="custom-control-description">{{bank.Name_of_banks}}</span>
+        </label>
+      </div>
+    </div>
+    <div class="form-group col-4 col-md-4">
+      <label class="col-12 col-md-12 control-label">Выберите показатель сравнения</label>
+      <div class="radio" *ngFor="let operation of allData.OPERATIONS">
+        <label class="custom-control custom-radio">
+          <input type="radio" class="custom-control-input" name="operation" [(ngModel)]="settings.operation" [value]="operation.ID">
+          <span class="custom-control-indicator"></span>
+          <span class="custom-control-description">{{operation.Operation_name}}</span>
+        </label>
+      </div>
+    </div>
+    <div class="col-4 col-md-4">
+      <label class="col-12 col-md-12 control-label">Выберите период</label>
+      <div class="form-group col-8 col-md-8">
+        <label class="control-label">c</label>
+        <select name="startYear" class="form-control" [(ngModel)]="settings.startYear">
+          <option *ngFor="let year of years" [value]="year">{{year}}</option>
+        </select>
+      </div>
+      <div class="form-group col-8 col-md-8">
+        <label class="control-label">по</label>
+        <select name="endYear" class="form-control" [(ngModel)]="settings.endYear">
+          <option *ngFor="let year of years.slice(years.indexOf(settings.startYear))" [value]="year">{{year}}</option>
+        </select>
+      </div>
+    </div>
+    <button type="submit" (click)="drawPlot()" class="btn btn-default">Сформировать график</button>
+    <button type="submit" (click)="exportToTable()" class="btn btn-default">Сформировать таблицу</button>
+  </form>
+  <br>
+  <app-chart [plots]="plots"></app-chart>
+  <app-table-export [tableExport]="tableExport"></app-table-export>
+</div>
+<!-- Old form -->
+<!-- <form class="form-horizontal">
   <div class="form-group">
     <label class="col-sm-2 control-label">Выберите банки для сравнения</label>
     <br>
@@ -78,10 +123,4 @@
       <button type="submit" class="btn btn-primary">Построить график</button>
     </div>
   </div>
-</form>
-
-
-
-
-
-
+</form> -->

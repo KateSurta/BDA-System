@@ -1,8 +1,15 @@
-
-.form-horizontal{
-  font-family:Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
+button {
+  margin-right: 25px;
 }
 
-.center-block{
-  font-family:Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
+.center-block {
+  margin: 30px 0;
+}
+
+.form-horizontal {
+  font-family: Metropolis, Avenir Next, Helvetica Neue, Arial, sans-serif;
+}
+
+.center-block {
+  font-family: Metropolis, Avenir Next, Helvetica Neue, Arial, sans-serif;
 }

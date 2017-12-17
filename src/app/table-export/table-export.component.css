@@ -1,0 +1,12 @@
+table {
+	width: 100%;
+	margin-top: 50px;
+}
+th:not(:first-child),
+td:not(:first-child) {
+	text-align: center;
+}
+
+.tableRow:hover{
+	background-color: #C8C8C8;
+}
