@@ -1,0 +1,1052 @@
+[
+    {
+        "ID_banks": "1",
+        "ID_date": "201501",
+        "ID_operations": "1",
+        "Value": "315252"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201502",
+        "ID_operations": "1",
+        "Value": "340942"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201503",
+        "ID_operations": "1",
+        "Value": "366475"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201504",
+        "ID_operations": "1",
+        "Value": "397188"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201501",
+        "ID_operations": "1",
+        "Value": "5952215"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201502",
+        "ID_operations": "1",
+        "Value": "6103971"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201503",
+        "ID_operations": "1",
+        "Value": "6339834"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201504",
+        "ID_operations": "1",
+        "Value": "6376889"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201501",
+        "ID_operations": "1",
+        "Value": "2025043"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201502",
+        "ID_operations": "1",
+        "Value": "2052836"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201503",
+        "ID_operations": "1",
+        "Value": "2152209"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201504",
+        "ID_operations": "1",
+        "Value": "2127536"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201501",
+        "ID_operations": "1",
+        "Value": "655276"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201502",
+        "ID_operations": "1",
+        "Value": "740003"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201503",
+        "ID_operations": "1",
+        "Value": "903897"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201504",
+        "ID_operations": "1",
+        "Value": "920785"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201501",
+        "ID_operations": "2",
+        "Value": "68371"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201502",
+        "ID_operations": "2",
+        "Value": "67497"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201503",
+        "ID_operations": "2",
+        "Value": "71810"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201504",
+        "ID_operations": "2",
+        "Value": "69383"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201501",
+        "ID_operations": "2",
+        "Value": "1141229"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201502",
+        "ID_operations": "2",
+        "Value": "1155194"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201503",
+        "ID_operations": "2",
+        "Value": "1296279"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201504",
+        "ID_operations": "2",
+        "Value": "1297981"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201501",
+        "ID_operations": "2",
+        "Value": "343688"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201502",
+        "ID_operations": "2",
+        "Value": "347588"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201503",
+        "ID_operations": "2",
+        "Value": "350927"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201504",
+        "ID_operations": "2",
+        "Value": "352235"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201501",
+        "ID_operations": "2",
+        "Value": "124021"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201502",
+        "ID_operations": "2",
+        "Value": "130221"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201503",
+        "ID_operations": "2",
+        "Value": "130206"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201504",
+        "ID_operations": "2",
+        "Value": "147746"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201501",
+        "ID_operations": "3",
+        "Value": "2160"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201502",
+        "ID_operations": "3",
+        "Value": "4511"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201503",
+        "ID_operations": "3",
+        "Value": "8824"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201504",
+        "ID_operations": "3",
+        "Value": "5210"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201501",
+        "ID_operations": "3",
+        "Value": "9833"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201502",
+        "ID_operations": "3",
+        "Value": "30748"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201503",
+        "ID_operations": "3",
+        "Value": "40491"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201504",
+        "ID_operations": "3",
+        "Value": "40625"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201501",
+        "ID_operations": "3",
+        "Value": "2935"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201502",
+        "ID_operations": "3",
+        "Value": "8215"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201503",
+        "ID_operations": "3",
+        "Value": "11636"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201504",
+        "ID_operations": "3",
+        "Value": "10238"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201501",
+        "ID_operations": "3",
+        "Value": "3239"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201502",
+        "ID_operations": "3",
+        "Value": "9438"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201503",
+        "ID_operations": "3",
+        "Value": "9424"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201504",
+        "ID_operations": "3",
+        "Value": "17737"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201501",
+        "ID_operations": "4",
+        "Value": "411076"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201502",
+        "ID_operations": "4",
+        "Value": "441563"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201503",
+        "ID_operations": "4",
+        "Value": "542644"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201504",
+        "ID_operations": "4",
+        "Value": "533138"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201501",
+        "ID_operations": "4",
+        "Value": "7107281"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201502",
+        "ID_operations": "4",
+        "Value": "7462569"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201503",
+        "ID_operations": "4",
+        "Value": "7967165"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201504",
+        "ID_operations": "4",
+        "Value": "7780714"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201501",
+        "ID_operations": "4",
+        "Value": "2849862"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201502",
+        "ID_operations": "4",
+        "Value": "2903094"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201503",
+        "ID_operations": "4",
+        "Value": "3254150"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201504",
+        "ID_operations": "4",
+        "Value": "3358360"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201501",
+        "ID_operations": "4",
+        "Value": "856588"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201502",
+        "ID_operations": "4",
+        "Value": "899285"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201503",
+        "ID_operations": "4",
+        "Value": "1108768"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201504",
+        "ID_operations": "4",
+        "Value": "1196785"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201601",
+        "ID_operations": "1",
+        "Value": "421031"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201602",
+        "ID_operations": "1",
+        "Value": "434084"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201603",
+        "ID_operations": "1",
+        "Value": "449790"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201604",
+        "ID_operations": "1",
+        "Value": "475955"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201601",
+        "ID_operations": "1",
+        "Value": "6419562"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201602",
+        "ID_operations": "1",
+        "Value": "6396050"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201603",
+        "ID_operations": "1",
+        "Value": "5975452"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201604",
+        "ID_operations": "1",
+        "Value": "4990234"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201601",
+        "ID_operations": "1",
+        "Value": "2237560"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201602",
+        "ID_operations": "1",
+        "Value": "2088392"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201603",
+        "ID_operations": "1",
+        "Value": "1962603"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201604",
+        "ID_operations": "1",
+        "Value": "1918282"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201601",
+        "ID_operations": "1",
+        "Value": "1057525"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201602",
+        "ID_operations": "1",
+        "Value": "997147"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201603",
+        "ID_operations": "1",
+        "Value": "914046"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201604",
+        "ID_operations": "1",
+        "Value": "782987"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201601",
+        "ID_operations": "2",
+        "Value": "82473"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201602",
+        "ID_operations": "2",
+        "Value": "82253"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201603",
+        "ID_operations": "2",
+        "Value": "76959"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201604",
+        "ID_operations": "2",
+        "Value": "84398"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201601",
+        "ID_operations": "2",
+        "Value": "1291546"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201602",
+        "ID_operations": "2",
+        "Value": "1315937"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201603",
+        "ID_operations": "2",
+        "Value": "1316155"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201604",
+        "ID_operations": "2",
+        "Value": "1214428"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201601",
+        "ID_operations": "2",
+        "Value": "352508"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201602",
+        "ID_operations": "2",
+        "Value": "351703"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201603",
+        "ID_operations": "2",
+        "Value": "463766"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201604",
+        "ID_operations": "2",
+        "Value": "454934"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201601",
+        "ID_operations": "2",
+        "Value": "135240"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201602",
+        "ID_operations": "2",
+        "Value": "145519"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201603",
+        "ID_operations": "2",
+        "Value": "155282"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201604",
+        "ID_operations": "2",
+        "Value": "159299"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201601",
+        "ID_operations": "3",
+        "Value": "13090"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201602",
+        "ID_operations": "3",
+        "Value": "22983"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201603",
+        "ID_operations": "3",
+        "Value": "30136"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201604",
+        "ID_operations": "3",
+        "Value": "37573"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201601",
+        "ID_operations": "3",
+        "Value": "26599"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201602",
+        "ID_operations": "3",
+        "Value": "32573"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201603",
+        "ID_operations": "3",
+        "Value": "30200"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201604",
+        "ID_operations": "3",
+        "Value": "37535"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201601",
+        "ID_operations": "3",
+        "Value": "450"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201602",
+        "ID_operations": "3",
+        "Value": "2349"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201603",
+        "ID_operations": "3",
+        "Value": "6785"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201604",
+        "ID_operations": "3",
+        "Value": "806"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201601",
+        "ID_operations": "3",
+        "Value": "8680"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201602",
+        "ID_operations": "3",
+        "Value": "18959"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201603",
+        "ID_operations": "3",
+        "Value": "28723"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201604",
+        "ID_operations": "3",
+        "Value": "35949"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201601",
+        "ID_operations": "4",
+        "Value": "583125"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201602",
+        "ID_operations": "4",
+        "Value": "544187"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201603",
+        "ID_operations": "4",
+        "Value": "614584"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201604",
+        "ID_operations": "4",
+        "Value": "660648"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201601",
+        "ID_operations": "4",
+        "Value": "8772908"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201602",
+        "ID_operations": "4",
+        "Value": "8563018"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201603",
+        "ID_operations": "4",
+        "Value": "8435327"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201604",
+        "ID_operations": "4",
+        "Value": "8054182"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201601",
+        "ID_operations": "4",
+        "Value": "3278806"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201602",
+        "ID_operations": "4",
+        "Value": "3134725"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201603",
+        "ID_operations": "4",
+        "Value": "3058309"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201604",
+        "ID_operations": "4",
+        "Value": "3088843"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201601",
+        "ID_operations": "4",
+        "Value": "1314361"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201602",
+        "ID_operations": "4",
+        "Value": "1250483"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201603",
+        "ID_operations": "4",
+        "Value": "1192077"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201604",
+        "ID_operations": "4",
+        "Value": "1156638"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201701",
+        "ID_operations": "1",
+        "Value": "457347"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201702",
+        "ID_operations": "1",
+        "Value": "505185"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201703",
+        "ID_operations": "1",
+        "Value": "580883"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201701",
+        "ID_operations": "1",
+        "Value": "4996775"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201702",
+        "ID_operations": "1",
+        "Value": "4400374"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201703",
+        "ID_operations": "1",
+        "Value": "4509902"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201701",
+        "ID_operations": "1",
+        "Value": "1857507"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201702",
+        "ID_operations": "1",
+        "Value": "1897811"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201703",
+        "ID_operations": "1",
+        "Value": "1968928"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201701",
+        "ID_operations": "1",
+        "Value": "897225"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201702",
+        "ID_operations": "1",
+        "Value": "903493"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201703",
+        "ID_operations": "1",
+        "Value": "932345"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201701",
+        "ID_operations": "2",
+        "Value": "98771"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201702",
+        "ID_operations": "2",
+        "Value": "104297"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201703",
+        "ID_operations": "2",
+        "Value": "110075"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201701",
+        "ID_operations": "2",
+        "Value": "1218775"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201702",
+        "ID_operations": "2",
+        "Value": "1755317"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201703",
+        "ID_operations": "2",
+        "Value": "1764550"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201701",
+        "ID_operations": "2",
+        "Value": "455351"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201702",
+        "ID_operations": "2",
+        "Value": "454201"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201703",
+        "ID_operations": "2",
+        "Value": "454946"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201701",
+        "ID_operations": "2",
+        "Value": "161286"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201702",
+        "ID_operations": "2",
+        "Value": "164939"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201703",
+        "ID_operations": "2",
+        "Value": "180051"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201701",
+        "ID_operations": "3",
+        "Value": "14375"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201702",
+        "ID_operations": "3",
+        "Value": "26210"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201703",
+        "ID_operations": "3",
+        "Value": "32681"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201701",
+        "ID_operations": "3",
+        "Value": "4499"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201702",
+        "ID_operations": "3",
+        "Value": "10787"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201703",
+        "ID_operations": "3",
+        "Value": "20160"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201701",
+        "ID_operations": "3",
+        "Value": "301"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201702",
+        "ID_operations": "3",
+        "Value": "377"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201703",
+        "ID_operations": "3",
+        "Value": "998"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201701",
+        "ID_operations": "3",
+        "Value": "6682"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201702",
+        "ID_operations": "3",
+        "Value": "15611"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201701",
+        "ID_operations": "4",
+        "Value": "675584"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201702",
+        "ID_operations": "4",
+        "Value": "680867"
+    },
+    {
+        "ID_banks": "1",
+        "ID_date": "201703",
+        "ID_operations": "4",
+        "Value": "725421"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201701",
+        "ID_operations": "4",
+        "Value": "7597986"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201702",
+        "ID_operations": "4",
+        "Value": "7738407"
+    },
+    {
+        "ID_banks": "2",
+        "ID_date": "201703",
+        "ID_operations": "4",
+        "Value": "8006718"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201701",
+        "ID_operations": "4",
+        "Value": "2981149"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201702",
+        "ID_operations": "4",
+        "Value": "2967289"
+    },
+    {
+        "ID_banks": "3",
+        "ID_date": "201703",
+        "ID_operations": "4",
+        "Value": "3517644"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201701",
+        "ID_operations": "4",
+        "Value": "1212640"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201702",
+        "ID_operations": "4",
+        "Value": "1289509"
+    },
+    {
+        "ID_banks": "4",
+        "ID_date": "201703",
+        "ID_operations": "4",
+        "Value": "1399658"
+    }
+]
