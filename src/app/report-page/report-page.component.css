@@ -1,5 +1,23 @@
 button {
   margin-right: 25px;
+  cursor: pointer;
+  font-family: Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
+  background-color: #563d7c;
+  color: white;
+  padding: 10px 40px 10px 40px;
+  font-size: 16px;
+  border-color: #0E5158;
+}
+
+.btn-default:active, .btn-default:hover {
+  color: #2a2730;
+  background-color: #ffe484;
+  border-color: #ffe484;
+}
+
+hr{
+  border-top: 2px solid #3c4646;
+  margin: 0 10px 10px;
 }
 
 .center-block {
@@ -13,3 +31,5 @@ button {
 .center-block {
   font-family: Metropolis, Avenir Next, Helvetica Neue, Arial, sans-serif;
 }
+
+

@@ -17,6 +17,7 @@ export class ReportPageComponent {
 	public plots = {};
 	public years = [];
 	public tableExport = [];
+	public showPlot = false;
 
 
 	constructor(public dbService: DbService, private fb: FormBuilder) {
@@ -48,6 +49,7 @@ export class ReportPageComponent {
 	}
 
 	drawPlot() {
+		this.showPlot = true;
 		this.plots = {
 			data: this.getDataForPlots(),
 			xValue: this.getYearsQuarters()
@@ -55,6 +57,7 @@ export class ReportPageComponent {
 	}
 
 	exportToTable() {
+		this.showPlot = false;
 		this.tableExport = this.getDataForTable();
 	}
 

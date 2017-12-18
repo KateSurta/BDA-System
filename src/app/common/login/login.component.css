@@ -3,3 +3,13 @@
   text-align:center;
   font-family: Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
 }
+
+button{
+  background-color: #563d7c;
+  color: white;
+  border-color: #0E5158;
+}
+
+img{
+  size: 60px;
+}
