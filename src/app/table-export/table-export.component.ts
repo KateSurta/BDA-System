@@ -44,7 +44,7 @@ export class TableExportComponent {
 					maxValueInColumnIndex = j;
 				}
 			}
-			table.rows[maxValueInColumnIndex].children[i].bgColor = "Lime";
+			table.rows[maxValueInColumnIndex].children[i].bgColor = "palegreen";
 		}
 	}
 
