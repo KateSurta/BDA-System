@@ -5,6 +5,16 @@
   font-size: 12px;
 }
 
-.footer{
-  background-color: #563d7c;
+
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
+
+
+
+
