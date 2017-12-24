@@ -1,18 +1,24 @@
 <div class="welcome">
     <carousel class ="slider">
     <slide>
-    <img src="./assets/img/2.jpg" alt="First slide">
+    <img src="./assets/img/10.jpg" alt="First slide">
     <div class="carousel-caption d-none d-md-block">
+      <h3>Анализ кредитных показателей</h3>
+      <p>Сравнение количества выданных кредитов клиентам</p>
     </div>
   </slide>
   <slide>
-    <img src="./assets/img/3.jpg" alt="Second slide">
+    <img src="./assets/img/7.jpg" alt="Second slide">
     <div class="carousel-caption d-none d-md-block">
+      <h3>Анализ прибыли банков</h3>
+      <p>Сравнение прибыли банков по периодам</p>
     </div>
   </slide>
   <slide>
     <img src="./assets/img/8.jpg" alt="Third slide">
     <div class="carousel-caption d-none d-md-block">
+      <h3>Анализ собственного капитала банков</h3>
+      <p>Сравнение собственного капитала банков по периодам</p>
     </div>
   </slide>
 </carousel>
@@ -21,25 +27,19 @@
 
     <!-- Three columns of text below the carousel -->
     <div class="row">
-      <div class="col-lg-4">
-        <img class="rounded-circle" src="../assets/img/1.png" alt="Generic placeholder image" width="100" height="100">
-        <h2>Отчетность</h2>
+      <div class="col-lg-6">
+        <img class="rounded-circle" src="../assets/img/2.jpg" alt="Generic placeholder image">
+        <h2>{{create.title}}</h2>
         <p>{{create.description}}</p>
         <p><a routerLink="../report-page" class="btn btn-default" role="button">{{ create.action }}</a></p>
-      </div><!-- /.col-lg-4 -->
-      <div class="col-lg-4">
-        <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-        <h2>Heading</h2>
-        <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
-      </div><!-- /.col-lg-4 -->
-      <div class="col-lg-4">
-        <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-        <h2>Heading</h2>
-        <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-secondary" href="#" role="button">View details »</a></p>
-      </div><!-- /.col-lg-4 -->
-    </div><!-- /.row -->
+      </div>
+      <div class="col-lg-6">
+        <img class="rounded-circle" src="../assets/img/3.jpg" alt="Generic placeholder image">
+        <h2>{{about.title}}</h2>
+        <p>{{about.description}}</p>
+        <p><a routerLink="../infopage" class="btn btn-default" role="button">{{about.action }}</a></p>
+      </div>
+    </div>
 
 
     <!-- START THE FEATURETTES -->
@@ -48,11 +48,11 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <h2 class="featurette-heading">Белинвестбанк. <span class="text-muted">Наш первый клиент</span></h2>
+        <p class="lead"> Подготовка отчетности проводится по принципу трансформации учетных данных, полученных в соответствии с национальными стандартами бухгалтерского учета и отчетности. </p>
       </div>
       <div class="col-md-5">
-        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" style="width: 500px; height: 500px;" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22500%22%20height%3D%22500%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20500%20500%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1607547d21c%20text%20%7B%20fill%3A%23AAAAAA%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A25pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1607547d21c%22%3E%3Crect%20width%3D%22500%22%20height%3D%22500%22%20fill%3D%22%23EEEEEE%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22185.125%22%20y%3D%22261.1%22%3E500x500%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" data-holder-rendered="true">
+        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" style="width: 600px; height: 400px;" src="../assets/img/bl.jpg" data-holder-rendered="true">
       </div>
     </div>
 
@@ -60,11 +60,11 @@
 
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <h2 class="featurette-heading">Белагропромбанк. <span class="text-muted">Наш второй клиент.</span></h2>
+        <p class="lead">Продукт обеспечивает «Быстрый старт» проектам по построению отчетно-аналитической системы на базе корпоративного хранилища данных, позволяет заложить основы единого информационного пространства банка и почувствовать выгоды от использования корпоративного хранилища данных.</p>
       </div>
       <div class="col-md-5 order-md-1">
-        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22500%22%20height%3D%22500%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20500%20500%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1607547d22c%20text%20%7B%20fill%3A%23AAAAAA%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A25pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1607547d22c%22%3E%3Crect%20width%3D%22500%22%20height%3D%22500%22%20fill%3D%22%23EEEEEE%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22185.125%22%20y%3D%22261.1%22%3E500x500%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" data-holder-rendered="true" style="width: 500px; height: 500px;">
+        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" src="../assets/img/bel.jpg" data-holder-rendered="true" style="width: 600px; height: 400px;">
       </div>
     </div>
 
@@ -72,34 +72,36 @@
 
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <h2 class="featurette-heading">МТБанк. <span class="text-muted">Наш третий клиент.</span></h2>
+        <p class="lead">Управленческий учет и отчетность  — система для покрытия потребности банков в части организации управленческого учета и отчетности, а также предоставления сводной информации о деятельности банка для топ-менеджмента.</p>
       </div>
       <div class="col-md-5">
-        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22500%22%20height%3D%22500%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20500%20500%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_1607547d231%20text%20%7B%20fill%3A%23AAAAAA%3Bfont-weight%3Abold%3Bfont-family%3AArial%2C%20Helvetica%2C%20Open%20Sans%2C%20sans-serif%2C%20monospace%3Bfont-size%3A25pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_1607547d231%22%3E%3Crect%20width%3D%22500%22%20height%3D%22500%22%20fill%3D%22%23EEEEEE%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22185.125%22%20y%3D%22261.1%22%3E500x500%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" data-holder-rendered="true" style="width: 500px; height: 500px;">
+        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" src="../assets/img/mtb.jpg" data-holder-rendered="true" style="width: 600px; height: 400px;">
       </div>
     </div>
-
     <hr class="featurette-divider">
-
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">Альфа-Банк. <span class="text-muted">Наш четвертый клиент.</span></h2>
+        <p class="lead">Системы аналитики для банков играют ключевую роль при организации и планировании работы. Аналитические платформы помогают руководителям принимать взвешенные управленческие решения, исходя из имеющейся информации..</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img class="featurette-image img-fluid mx-auto" data-src="holder.js/500x500/auto" alt="500x500" src="../assets/img/alf.jpg" data-holder-rendered="true" style="width: 600px; height: 400px;">
+      </div>
+    </div>
+    <!--<ul class="pager">-->
+      <!--<li class="previous">-->
+        <!--<a routerLink="../login">&larr; Назад</a>-->
+      <!--</li>-->
+      <!--<li class="next">-->
+        <!--<a routerLink="../report-page">Вперед &rarr;</a>-->
+      <!--</li>-->
+    <!--</ul>-->
   </div>
 <footer class="container myfooter">
   <p class="float-right"><a href="#">Back to top</a></p>
-  <p>© 2017 BDA-System, Inc. · <a href="#">Privacy</a> · <a href="#">Terms</a></p>
+  <p>© 2017 BDA-System, Inc</p>
 </footer>
 
 
 
-  <!--<div class="container">-->
-    <!--<div class="row justify-content-between">-->
-      <!--<div class="col col-12 col-md-5 p-3 p-md-5">-->
-        <!--<h3>{{about.description }}</h3>-->
-        <!--<p><a routerLink="../infopage" class="btn btn-default" role="button">{{ about.action }}</a></p>-->
-        <!--</div>-->
-      <!--<div class="col col-12 col-md-5 p-3 p-md-5">-->
-        <!--<h3>{{create.description }}</h3>-->
-        <!--<p><a routerLink="../report-page" class="btn btn-default" role="button">{{ create.action }}</a></p>-->
-      <!--</div>-->
-    <!--</div>-->
-  <!--</div>-->
-<!--</div>-->
