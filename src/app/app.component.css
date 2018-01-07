@@ -1,0 +1,17 @@
+.footer p{
+  margin-bottom: 1px;
+  color: #868e96!important;
+  font-family: Metropolis, Avenir Next, Helvetica Neue, Arial, sans-serif;
+  font-size: 12px;
+}
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
+
+

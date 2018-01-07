@@ -1,0 +1,17 @@
+.contacts_area {
+  font-family: 'Spectral SC', serif;
+  border: 0;
+  margin-left: -30px;
+  border-bottom: 1px dashed #d5d5d5;
+}
+
+.contacts_row {
+  font-family: 'Spectral SC', serif;
+  margin-bottom: 24px;
+}
+
+.breadcrumb{
+  font-family: 'Spectral SC', serif;
+  float:top;
+  background-color: white !important;
+}

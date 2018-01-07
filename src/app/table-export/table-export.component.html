@@ -1,0 +1,12 @@
+<table id="tableExport" *ngIf="tableExport.length">
+  <tr>
+    <th>Имя банка</th>
+    <th *ngFor="let date of ID_dates">{{date | quarter}}</th>
+  </tr>
+  <tr *ngFor="let bank of tableExport; let last = last" class="tableRow">
+    <td style="width:15%">{{bank.name}}</td>
+    <td *ngFor="let value of bank.values">{{value}}</td>
+    <span *ngIf="last">{{highlightMaxInColumn()}}</span>
+  </tr>
+</table>
+<br>
