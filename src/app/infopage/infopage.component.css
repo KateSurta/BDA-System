@@ -1,4 +1,5 @@
 .content_col {
+  font-family: 'Spectral SC', serif;
   float: none;
   margin: 0;
   padding: 0;
@@ -10,20 +11,24 @@
 }
 
 .content_top {
+  font-family: 'Spectral SC', serif;
   margin-bottom: 45px;
 }
 
 .container .client_box {
+  font-family: 'Spectral SC', serif;
   border: 0;
   margin-left: -30px;
 }
 
 .text_center {
+  font-family: 'Spectral SC', serif;
   text-align: center;
 }
 
 
 .client_box_list {
+  font-family: 'Spectral SC', serif;
   padding: 0 30px;
   display: block;
   font-size: 0;
@@ -35,14 +40,27 @@
 }
 
 .client_box_3 .client_box_item {
+  font-family: 'Spectral SC', serif;
   margin-right: -4px;
   min-width: 0 !important;
 }
 
 .client_box_item {
+  font-family: 'Spectral SC', serif;
   text-align: center;
   margin-bottom: 30px;
   position: relative;
   vertical-align: top;
   font-size: 13px;
+}
+
+.breadcrumb{
+  font-family: 'Spectral SC', serif;
+  float:top;
+  background-color: white;
+  margin-left: 100px;
+}
+
+.container h1, p{
+  font-family: 'Spectral SC', serif;
 }

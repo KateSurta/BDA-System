@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import {Router} from '@angular/router';
+import {Location} from '@angular/common'
 
 @Component({
   selector: 'app-header',
@@ -8,9 +10,18 @@ import { Component, OnInit } from '@angular/core';
 export class HeaderComponent implements OnInit {
   collapsedFlag: boolean = true;
   name: string = 'test';
-  constructor() { }
+  currentUrl = '';
+
+  constructor(private router: Router) {
+  }
 
   ngOnInit() {
+    this.currentUrl = this.router.url;
+  }
+
+
+  checkUrl() {
+    this.currentUrl = this.router.url;
   }
 
 

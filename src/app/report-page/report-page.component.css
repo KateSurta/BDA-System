@@ -1,7 +1,7 @@
 button {
   margin-right: 25px;
   cursor: pointer;
-  font-family: Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
+  font-family: 'Spectral SC', serif;
   background-color: #563d7c;
   color: white;
   padding: 10px 40px 10px 40px;
@@ -25,11 +25,16 @@ hr{
 }
 
 .form-horizontal {
-  font-family: Metropolis, Avenir Next, Helvetica Neue, Arial, sans-serif;
+  font-family: 'Spectral SC', serif;
 }
 
 .center-block {
-  font-family: Metropolis, Avenir Next, Helvetica Neue, Arial, sans-serif;
+  font-family: 'Spectral SC', serif;
 }
 
-
+.breadcrumb{
+  font-family: 'Spectral SC', serif;
+  float:top;
+  background-color: white;
+  margin-left: 0px;
+}

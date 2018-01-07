@@ -2,26 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f87c41f7-6b53-4607-99e2-c9a2c454679a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/app/common/header/header.component.css" afterPath="$PROJECT_DIR$/src/app/common/header/header.component.css" />
-      <change beforePath="$PROJECT_DIR$/src/app/common/header/header.component.html" afterPath="$PROJECT_DIR$/src/app/common/header/header.component.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.css" afterPath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.css" />
-      <change beforePath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" afterPath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts" afterPath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts" />
-      <change beforePath="$PROJECT_DIR$/src/app/infopage/infopage.component.css" afterPath="$PROJECT_DIR$/src/app/infopage/infopage.component.css" />
-      <change beforePath="$PROJECT_DIR$/src/app/infopage/infopage.component.html" afterPath="$PROJECT_DIR$/src/app/infopage/infopage.component.html" />
-      <change beforePath="$PROJECT_DIR$/src/app/services/db/OPERATIONS.json" afterPath="$PROJECT_DIR$/src/app/services/db/OPERATIONS.json" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/7.jpg" afterPath="$PROJECT_DIR$/src/assets/img/7.jpg" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/user-1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/work_1_large.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/work_1_small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/work_2_large.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/work_2_small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/work_3_large.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/work_3_small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/work_4_large.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/work_4_small.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/css/bootstrap.css" afterPath="$PROJECT_DIR$/src/css/bootstrap.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/common/login/login.component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/common/login/login.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/common/login/login.component.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/hoverIntent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/jquery.easing.1.3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/magnific-popup-options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/vendor/superfish.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/img/2.jpg" afterPath="$PROJECT_DIR$/src/assets/img/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/img/3.jpg" afterPath="$PROJECT_DIR$/src/assets/img/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/img/alf.jpg" afterPath="$PROJECT_DIR$/src/assets/img/alf.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/img/bel.jpg" afterPath="$PROJECT_DIR$/src/assets/img/bel.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/img/bl.jpg" afterPath="$PROJECT_DIR$/src/assets/img/bl.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/img/mtb.jpg" afterPath="$PROJECT_DIR$/src/assets/img/mtb.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.css" afterPath="$PROJECT_DIR$/src/app/app.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.routing.ts" afterPath="$PROJECT_DIR$/src/app/app.routing.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/common/header/header.component.css" afterPath="$PROJECT_DIR$/src/app/common/header/header.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/common/header/header.component.html" afterPath="$PROJECT_DIR$/src/app/common/header/header.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/common/header/header.component.ts" afterPath="$PROJECT_DIR$/src/app/common/header/header.component.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.css" afterPath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" afterPath="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/infopage/infopage.component.css" afterPath="$PROJECT_DIR$/src/app/infopage/infopage.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/infopage/infopage.component.html" afterPath="$PROJECT_DIR$/src/app/infopage/infopage.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/report-page/report-page.component.css" afterPath="$PROJECT_DIR$/src/app/report-page/report-page.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/report-page/report-page.component.html" afterPath="$PROJECT_DIR$/src/app/report-page/report-page.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/table-export/table-export.component.css" afterPath="$PROJECT_DIR$/src/app/table-export/table-export.component.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/table-export/table-export.component.html" afterPath="$PROJECT_DIR$/src/app/table-export/table-export.component.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/dist/" />
@@ -35,7 +51,108 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="contactpage.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/contactpage/contactpage.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactpage.component.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/contactpage/contactpage.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report-page.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/report-page/report-page.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="59" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report-page.component.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/report-page/report-page.component.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.service.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/services/db/db.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.service.spec.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/services/db/db.service.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Date_of_report.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/services/db/Date_of_report.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sqlite_sequence.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/services/db/sqlite_sequence.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OPERATIONS.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/services/db/OPERATIONS.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactpage.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app/contactpage/contactpage.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,10 +167,17 @@
       <find>query</find>
       <find>rou</find>
       <find>bar</find>
+      <find>crea</find>
+      <find>slider</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -68,37 +192,40 @@
         <option value="$PROJECT_DIR$/src/app/homepage/homepage.component.html" />
         <option value="$PROJECT_DIR$/src/app/homepage/dashboard/dashboard.component.css" />
         <option value="$PROJECT_DIR$/src/app/homepage/homepage.component.css" />
-        <option value="$PROJECT_DIR$/src/app/app.routing.ts" />
         <option value="$PROJECT_DIR$/src/app/common/login/login.component.html" />
         <option value="$PROJECT_DIR$/src/app/chart/chart.component.html" />
         <option value="$PROJECT_DIR$/src/app/chart/chart.component.ts" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/typings.d.ts" />
         <option value="$PROJECT_DIR$/src/app/services/db/db.service.ts" />
-        <option value="$PROJECT_DIR$/src/app/table-export/table-export.component.html" />
-        <option value="$PROJECT_DIR$/src/app/common/header/header.component.ts" />
         <option value="$PROJECT_DIR$/src/app/chart/chart.component.spec.ts" />
-        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/src/app/chart/chart.component.css" />
-        <option value="$PROJECT_DIR$/src/app/table-export/table-export.component.css" />
         <option value="$PROJECT_DIR$/src/app/table-export/table-export.component.ts" />
         <option value="$PROJECT_DIR$/src/app/common/login/login.component.css" />
-        <option value="$PROJECT_DIR$/src/app/report-page/report-page.component.css" />
-        <option value="$PROJECT_DIR$/src/app/report-page/report-page.component.html" />
         <option value="$PROJECT_DIR$/src/css/style.css" />
         <option value="$PROJECT_DIR$/src/css/icomoon.css" />
-        <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/app/app.component.css" />
         <option value="$PROJECT_DIR$/src/app/app.component.html" />
-        <option value="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts" />
         <option value="$PROJECT_DIR$/src/app/services/db/OPERATIONS.json" />
-        <option value="$PROJECT_DIR$/src/app/infopage/infopage.component.css" />
-        <option value="$PROJECT_DIR$/src/app/infopage/infopage.component.html" />
-        <option value="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.css" />
         <option value="$PROJECT_DIR$/src/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" />
-        <option value="$PROJECT_DIR$/src/app/common/header/header.component.css" />
+        <option value="$PROJECT_DIR$/src/app/app.routing.ts" />
+        <option value="$PROJECT_DIR$/src/app/common/header/header.component.ts" />
+        <option value="$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/src/app/common/header/header.component.html" />
+        <option value="$PROJECT_DIR$/src/app/common/header/header.component.css" />
+        <option value="$PROJECT_DIR$/src/app/report-page/report-page.component.css" />
+        <option value="$PROJECT_DIR$/src/app/table-export/table-export.component.css" />
+        <option value="$PROJECT_DIR$/src/app/contactpage/contactpage.component.css" />
+        <option value="$PROJECT_DIR$/src/app/infopage/infopage.component.css" />
+        <option value="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.css" />
+        <option value="$PROJECT_DIR$/src/app/infopage/infopage.component.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.component.css" />
+        <option value="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts" />
+        <option value="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" />
+        <option value="$PROJECT_DIR$/src/app/table-export/table-export.component.html" />
+        <option value="$PROJECT_DIR$/src/app/report-page/report-page.component.html" />
+        <option value="$PROJECT_DIR$/src/app/contactpage/contactpage.component.html" />
       </list>
     </option>
   </component>
@@ -135,7 +262,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,10 +280,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BDA-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BDA-System" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="contactpage" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,6 +330,89 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -233,34 +452,48 @@
       <workItem from="1513797934590" duration="5277000" />
       <workItem from="1513886513336" duration="3989000" />
       <workItem from="1514118576732" duration="21725000" />
+      <workItem from="1514211632494" duration="6032000" />
+      <workItem from="1514295718692" duration="13275000" />
+      <workItem from="1514366984405" duration="752000" />
+      <workItem from="1514972783835" duration="1050000" />
+      <workItem from="1515015704266" duration="456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123166000" />
+    <option name="totallyTimeSpent" value="144731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16815476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39795917" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27760968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40131578" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,192 +512,129 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/app/chart/chart.component.html">
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts" />
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts" />
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app" />
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/table-export" />
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/services" />
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/pipes" />
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/chart" />
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/report-page" />
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/infopage" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/chart/chart.component.css">
+    <entry file="file://$PROJECT_DIR$/src/app/infopage/infopage.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/table-export/table-export.component.css">
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="263">
+          <caret line="4280" column="26" lean-forward="true" selection-start-line="4280" selection-start-column="26" selection-end-line="4280" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/table-export/table-export.component.html">
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/contactpage" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/Belinvest(1).ipynb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="145">
+          <caret line="140" column="32" lean-forward="true" selection-start-line="140" selection-start-column="32" selection-end-line="140" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/table-export/table-export.component.ts">
+    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/homepage" />
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        <state relative-caret-position="201">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/common/login/login.component.html">
+    <entry file="file://$PROJECT_DIR$/src/app/common/header/header.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="49" />
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/common/login/login.component.css">
+    <entry file="file://$PROJECT_DIR$/src/app/common/header/header.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="201">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/report-page/report-page.component.css">
+    <entry file="file://$PROJECT_DIR$/src/app/common/header/header.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/wapik-multiparpus-template/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1033">
-          <caret line="90" column="0" lean-forward="true" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/render/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="119" column="12" lean-forward="true" selection-start-line="76" selection-start-column="12" selection-end-line="119" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.routing.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/superfish.css" />
-    <entry file="file://$PROJECT_DIR$/src/css/icomoon.css" />
-    <entry file="file://$PROJECT_DIR$/src/css/animate.css" />
-    <entry file="file://$PROJECT_DIR$/src/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/src/vendor/bootstrap.min.js" />
-    <entry file="file://$PROJECT_DIR$/src/vendor/hoverIntent.js" />
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        <state relative-caret-position="218">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/homepage/homepage.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/infopage/infopage.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/report-page/report-page.component.ts">
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="58" column="2" lean-forward="false" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        <state relative-caret-position="68">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.routing.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="8" column="55" lean-forward="false" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/report-page/report-page.component.html">
+    <entry file="file://$PROJECT_DIR$/src/app/homepage/homepage.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/services/db/db.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/services/db/OPERATIONS.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/infopage/infopage.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/infopage/infopage.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="36" column="56" lean-forward="false" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -477,666 +647,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="5294" column="16" lean-forward="true" selection-start-line="5294" selection-start-column="16" selection-end-line="5294" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="87" column="26" lean-forward="false" selection-start-line="87" selection-start-column="26" selection-end-line="87" selection-end-column="26" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#2;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#3;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#4;n#div#1;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/common/header/header.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="222">
+          <caret line="90" column="30" lean-forward="true" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/common/header/header.component.css">
+    <entry file="file://$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="173">
+          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/common/header/header.component.html">
+    <entry file="file://$PROJECT_DIR$/src/app/infopage/infopage.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/infopage/infopage.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/infopage/infopage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/homepage/homepage.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/report-page/report-page.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="56" column="3" lean-forward="true" selection-start-line="56" selection-start-column="3" selection-end-line="56" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/chart/chart.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="86" lean-forward="false" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/common/login">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/common/login</OriginalElement>
-          <nodes>
-            <node x="445.0" y="363.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;</node>
-            <node x="292.0" y="587.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;</node>
-            <node x="79.0" y="146.0">Component;</node>
-            <node x="255.0" y="0.0">$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;</node>
-            <node x="644.0" y="137.0">$PROJECT_DIR$/src/app/common/login/login.component.html</node>
-            <node x="209.0" y="367.0">$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;</node>
-            <node x="267.0" y="162.0">$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;</node>
-            <node x="0.0" y="457.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;</node>
-            <node x="646.0" y="0.0">./assets/img/open-iconic-master/svg/envelope-closed.svg</node>
-            <node x="782.0" y="230.0">./assets/img/open-iconic-master/svg/lock-locked.svg</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;" target="Component;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;" target="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.html" target="./assets/img/open-iconic-master/svg/lock-locked.svg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;" target="$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.html" target="./assets/img/open-iconic-master/svg/envelope-closed.svg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.541033434650456" x="-61.39325842696627" y="433.5955056179775" />
-          <SelectedNodes>
-            <node>$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/pipes/quarter.pipe.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/common">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/common</OriginalElement>
-          <nodes>
-            <node x="505.0" y="537.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;</node>
-            <node x="650.0" y="629.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;</node>
-            <node x="18.0" y="108.0">Component;</node>
-            <node x="309.0" y="769.0">$PROJECT_DIR$/src/app/common/header/header.component.html</node>
-            <node x="618.0" y="263.0">$PROJECT_DIR$/src/app/common/header/header.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#HeaderComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#async#9;</node>
-            <node x="297.0" y="0.0">$PROJECT_DIR$/src/app/common/header/header.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#HeaderComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#OnInit#20;</node>
-            <node x="124.0" y="251.0">$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;</node>
-            <node x="80.0" y="846.0">$PROJECT_DIR$/src/app/common/login/login.component.html</node>
-            <node x="226.0" y="607.0">$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;</node>
-            <node x="0.0" y="400.0">$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;</node>
-            <node x="409.0" y="338.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;</node>
-            <node x="382.0" y="886.0">../../assets/img/iicons1.png</node>
-            <node x="44.0" y="962.0">./assets/img/open-iconic-master/svg/envelope-closed.svg</node>
-            <node x="0.0" y="769.0">./assets/img/open-iconic-master/svg/lock-locked.svg</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;" target="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/header/header.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#HeaderComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.html" target="./assets/img/open-iconic-master/svg/lock-locked.svg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/header/header.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#HeaderComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/header/header.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#HeaderComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#OnInit#20;" target="Component;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;" target="$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.html" target="./assets/img/open-iconic-master/svg/envelope-closed.svg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/header/header.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#HeaderComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#async#9;" target="$PROJECT_DIR$/src/app/common/header/header.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#HeaderComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#OnInit#20;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/header/header.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#HeaderComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;" target="Component;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/header/header.component.html" target="../../assets/img/iicons1.png">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/common/header/header.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#HeaderComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#OnInit#20;" target="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="220.0" y="347.0" />
-          <SelectedNodes>
-            <node>$PROJECT_DIR$/src/app/common/login/login.component.html</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/table-export/table-export.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/homepage">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/homepage</OriginalElement>
-          <nodes>
-            <node x="561.0" y="97.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;</node>
-            <node x="37.0" y="625.0">$PROJECT_DIR$/node_modules/ngx-bootstrap/carousel/carousel.config.d.ts#CarouselConfig#0;</node>
-            <node x="673.0" y="499.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;</node>
-            <node x="104.0" y="98.0">Component;</node>
-            <node x="733.0" y="202.0">$PROJECT_DIR$/src/app/homepage/homepage.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#HomepageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#async#9;</node>
-            <node x="292.0" y="109.0">$PROJECT_DIR$/src/app/homepage/homepage.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#HomepageComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#OnInit#20;</node>
-            <node x="0.0" y="264.0">$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;</node>
-            <node x="743.0" y="0.0">$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;</node>
-            <node x="88.0" y="897.0">$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html</node>
-            <node x="455.0" y="298.0">$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#WelcomeComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#async#9;</node>
-            <node x="186.0" y="356.0">$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts#CarouselConfig#60;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#OnInit#20;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#WelcomeComponent#109;</node>
-            <node x="355.0" y="920.0">../assets/img/2.jpg</node>
-            <node x="158.0" y="1046.0">../assets/img/3.jpg</node>
-            <node x="43.0" y="791.0">../assets/img/alf.jpg</node>
-            <node x="239.0" y="730.0">../assets/img/bel.jpg</node>
-            <node x="135.0" y="721.0">../assets/img/bl.jpg</node>
-            <node x="339.0" y="820.0">../assets/img/mtb.jpg</node>
-            <node x="274.0" y="1013.0">./assets/img/10.jpg</node>
-            <node x="0.0" y="909.0">./assets/img/7.jpg</node>
-            <node x="67.0" y="1002.0">./assets/img/8.jpg</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="$PROJECT_DIR$/src/app/homepage/homepage.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#HomepageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#async#9;" target="$PROJECT_DIR$/src/app/homepage/homepage.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#HomepageComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#OnInit#20;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts#CarouselConfig#60;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#OnInit#20;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#WelcomeComponent#109;" target="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="./assets/img/7.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/homepage.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#HomepageComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#OnInit#20;" target="$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="../assets/img/bl.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="../assets/img/2.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/homepage.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#HomepageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#WelcomeComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#WelcomeComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#async#9;" target="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts#CarouselConfig#60;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#OnInit#20;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#WelcomeComponent#109;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#WelcomeComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/homepage.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#HomepageComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#OnInit#20;" target="Component;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts#CarouselConfig#60;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#OnInit#20;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#WelcomeComponent#109;" target="Component;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="../assets/img/alf.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="../assets/img/bel.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/homepage.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#HomepageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#WelcomeComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="./assets/img/10.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="../assets/img/3.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts#CarouselConfig#60;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#OnInit#20;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#WelcomeComponent#109;" target="$PROJECT_DIR$/node_modules/ngx-bootstrap/carousel/carousel.config.d.ts#CarouselConfig#0;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="./assets/img/8.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/homepage.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#HomepageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#async#9;" target="$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html" target="../assets/img/mtb.jpg">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.48171846435100546" x="-68.56925996204927" y="488.2163187855788" />
-          <SelectedNodes>
-            <node>$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts#CarouselConfig#60;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#OnInit#20;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#WelcomeComponent#109;</node>
-          </SelectedNodes>
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/table-export/table-export.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/app.component.html">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/app.component.html</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="559.0" y="274.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/table-export/table-export.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/app.routing.ts</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/src/app/app.routing.ts#HomepageComponent#248;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#InfopageComponent#313;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#LoginComponent#102;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#NgModule#8;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#ReportPageComponent#170;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#RouterModule#48;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#Routes#62;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/router/src/config.d.ts#Routes#7840;</node>
-            <node x="" y="">NgModule;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/homepage/homepage.component.ts#HomepageComponent#52;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/infopage/infopage.component.ts#InfopageComponent#52;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/login/login.component.ts#LoginComponent#52;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/report-page/report-page.component.ts#ReportPageComponent#184;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/router/src/router_module.d.ts#RouterModule#1199;</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.6853932584269663" x="457.5" y="390.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/chart/chart.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/app.module.ts</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/src/app/app.component.ts#AppComponent#44;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/app.module.ts#AppComponent#206;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#AppRoutingModule#155;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#BrowserModule#9;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#BsDropdownModule#322;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#CarouselModule#831;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#ChartComponent#955;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#DbService#1012;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#FormsModule#626;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#HeaderComponent#254;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#HomepageComponent#691;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#InfopageComponent#888;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#LoginComponent#487;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#ModalModule#436;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#NgModule#68;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#QuarterPipe#1143;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#ReactiveFormsModule#638;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#ReportPageComponent#552;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#RouterModule#109;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#TableExportComponent#1065;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#TooltipModule#381;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#WelcomeComponent#758;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/app.routing.ts#AppRoutingModule#731;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/platform-browser/src/browser.d.ts#BrowserModule#795;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/dropdown/bs-dropdown.module.d.ts#BsDropdownModule#53;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/carousel/carousel.module.d.ts#CarouselModule#53;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/chart/chart.component.ts#ChartComponent#100;</node>
-            <node x="" y="">NgModule;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/db.service.ts#DbService#353;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/forms/src/form_providers.d.ts#FormsModule#0;D:/kate/диплом/Diplom/BDA-System/node_modules/@angular/forms/src/form_providers.d.ts#ReactiveFormsModule#84;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/header/header.component.ts#HeaderComponent#52;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/homepage/homepage.component.ts#HomepageComponent#52;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/infopage/infopage.component.ts#InfopageComponent#52;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/login/login.component.ts#LoginComponent#52;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/modal/modal.module.d.ts#ModalModule#53;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/pipes/quarter.pipe.ts#QuarterPipe#54;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/report-page/report-page.component.ts#ReportPageComponent#184;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/router/src/router_module.d.ts#RouterModule#1199;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/table-export/table-export.component.ts#TableExportComponent#59;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/tooltip/tooltip.module.d.ts#TooltipModule#53;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts#WelcomeComponent#109;</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.5366568914956011" x="591.0" y="501.50000000000006" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/chart/chart.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/Banks.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/Date_of_report.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/Fact_quererly_stats.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/OPERATIONS.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/User.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/app.component.spec.ts#AppComponent#65;D:/kate/диплом/Diplom/BDA-System/src/app/app.component.spec.ts#TestBed#9;D:/kate/диплом/Diplom/BDA-System/src/app/app.component.spec.ts#async#18;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/app.component.ts#AppComponent#44;D:/kate/диплом/Diplom/BDA-System/src/app/app.component.ts#Component#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/app.module.ts#AppComponent#206;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#AppRoutingModule#155;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#BrowserModule#9;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#BsDropdownModule#322;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#CarouselModule#831;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#ChartComponent#955;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#DbService#1012;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#FormsModule#626;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#HeaderComponent#254;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#HomepageComponent#691;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#InfopageComponent#888;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#LoginComponent#487;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#ModalModule#436;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#NgModule#68;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#QuarterPipe#1143;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#ReactiveFormsModule#638;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#ReportPageComponent#552;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#RouterModule#109;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#TableExportComponent#1065;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#TooltipModule#381;D:/kate/диплом/Diplom/BDA-System/src/app/app.module.ts#WelcomeComponent#758;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/app.routing.ts#AppRoutingModule#731;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#HomepageComponent#248;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#InfopageComponent#313;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#LoginComponent#102;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#NgModule#8;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#ReportPageComponent#170;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#RouterModule#48;D:/kate/диплом/Diplom/BDA-System/src/app/app.routing.ts#Routes#62;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/platform-browser/src/browser.d.ts#BrowserModule#795;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/dropdown/bs-dropdown.module.d.ts#BsDropdownModule#53;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/carousel/carousel.config.d.ts#CarouselConfig#0;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/carousel/carousel.module.d.ts#CarouselModule#53;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/chart/chart.component.spec.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.spec.ts#Plotly#65;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.spec.ts#SimpleChanges#20;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/chart/chart.component.ts#ChartComponent#100;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.ts#Plotly#65;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.ts#SimpleChanges#20;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/router/src/config.d.ts#Routes#7840;</node>
-            <node x="" y="">Component;Injectable;NgModule;Pipe;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/db.service.spec.ts#DbService#67;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.spec.ts#TestBed#9;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.spec.ts#inject#18;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/db.service.ts#Banks#51;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#Date_of_report#90;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#DbService#353;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#Fact_quererly_stats#147;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#Injectable#9;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#OPERATIONS#214;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#User#322;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#sqlite_sequence#263;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/forms/src/form_builder.d.ts#FormBuilder#134;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/forms/src/form_providers.d.ts#FormsModule#0;D:/kate/диплом/Diplom/BDA-System/node_modules/@angular/forms/src/form_providers.d.ts#ReactiveFormsModule#84;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/header/header.component.html</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/header/header.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#HeaderComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/header/header.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#HeaderComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/header/header.component.ts#OnInit#20;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/homepage/homepage.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#HomepageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/homepage/homepage.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#HomepageComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/homepage.component.ts#OnInit#20;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/infopage/infopage.component.html</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/infopage/infopage.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.spec.ts#InfopageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/infopage/infopage.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.ts#InfopageComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.ts#OnInit#20;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;D:/kate/диплом/Diplom/BDA-System/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#SimpleChanges#277;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/login/login.component.html</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/login/login.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#LoginComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/common/login/login.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#LoginComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/common/login/login.component.ts#OnInit#20;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/modal/modal.module.d.ts#ModalModule#53;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/forms/src/model.d.ts#FormControl#10479;D:/kate/диплом/Diplom/BDA-System/node_modules/@angular/forms/src/model.d.ts#FormGroup#15619;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/pipe_transform.d.ts#PipeTransform#203;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/pipes/quarter.pipe.spec.ts#QuarterPipe#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/pipes/quarter.pipe.ts#Pipe#9;D:/kate/диплом/Diplom/BDA-System/src/app/pipes/quarter.pipe.ts#PipeTransform#15;D:/kate/диплом/Diplom/BDA-System/src/app/pipes/quarter.pipe.ts#QuarterPipe#54;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/report-page/report-page.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.spec.ts#ReportPageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/report-page/report-page.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#DbService#136;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#FormBuilder#76;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#FormControl#63;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#FormGroup#52;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#ReportPageComponent#184;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#Validators#89;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/router/src/router_module.d.ts#RouterModule#1199;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/sqlite_sequence.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/table-export/table-export.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.spec.ts#TableExportComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/table-export/table-export.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.ts#SimpleChanges#20;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.ts#TableExportComponent#59;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;D:/kate/диплом/Diplom/BDA-System/node_modules/@angular/core/testing/src/test_bed.d.ts#inject#7320;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/ngx-bootstrap/tooltip/tooltip.module.d.ts#TooltipModule#53;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/forms/src/validators.d.ts#Validators#980;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.html</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#WelcomeComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/homepage/welcome/welcome.component.ts#CarouselConfig#60;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#OnInit#20;D:/kate/диплом/Diplom/BDA-System/src/app/homepage/welcome/welcome.component.ts#WelcomeComponent#109;</node>
-            <node x="" y="">../../assets/img/iicons1.png</node>
-            <node x="" y="">../assets/img/2.jpg</node>
-            <node x="" y="">../assets/img/3.jpg</node>
-            <node x="" y="">../assets/img/alf.jpg</node>
-            <node x="" y="">../assets/img/bel.jpg</node>
-            <node x="" y="">../assets/img/bl.jpg</node>
-            <node x="" y="">../assets/img/mtb.jpg</node>
-            <node x="" y="">./assets/img/10.jpg</node>
-            <node x="" y="">./assets/img/11.jpg</node>
-            <node x="" y="">./assets/img/12.jpg</node>
-            <node x="" y="">./assets/img/13.jpg</node>
-            <node x="" y="">./assets/img/7.jpg</node>
-            <node x="" y="">./assets/img/8.jpg</node>
-            <node x="" y="">./assets/img/open-iconic-master/svg/envelope-closed.svg</node>
-            <node x="" y="">./assets/img/open-iconic-master/svg/lock-locked.svg</node>
-            <node x="" y="">plotly.js/lib/core</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.4381382738364211" x="1073.8529290429044" y="825.514542079208" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/report-page/report-page.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/table-export">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/table-export</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;</node>
-            <node x="" y="">Component;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#SimpleChanges#277;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/table-export/table-export.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.spec.ts#TableExportComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/table-export/table-export.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.ts#SimpleChanges#20;D:/kate/диплом/Diplom/BDA-System/src/app/table-export/table-export.component.ts#TableExportComponent#59;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.7924812030075188" x="341.5692599620493" y="336.38045540796963" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/report-page/report-page.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/services">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/services</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/Banks.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/Date_of_report.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/Fact_quererly_stats.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/OPERATIONS.json</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/User.json</node>
-            <node x="" y="">Injectable;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/db.service.spec.ts#DbService#67;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.spec.ts#TestBed#9;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.spec.ts#inject#18;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/db.service.ts#Banks#51;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#Date_of_report#90;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#DbService#353;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#Fact_quererly_stats#147;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#Injectable#9;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#OPERATIONS#214;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#User#322;D:/kate/диплом/Diplom/BDA-System/src/app/services/db/db.service.ts#sqlite_sequence#263;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/sqlite_sequence.json</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;D:/kate/диплом/Diplom/BDA-System/node_modules/@angular/core/testing/src/test_bed.d.ts#inject#7320;</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.7528571428571429" x="358.2571157495256" y="354.6110056925996" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/services/db/db.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/pipes">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/pipes</OriginalElement>
-          <nodes>
-            <node x="" y="">Pipe;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/src/change_detection/pipe_transform.d.ts#PipeTransform#203;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/pipes/quarter.pipe.spec.ts#QuarterPipe#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/pipes/quarter.pipe.ts#Pipe#9;D:/kate/диплом/Diplom/BDA-System/src/app/pipes/quarter.pipe.ts#PipeTransform#15;D:/kate/диплом/Diplom/BDA-System/src/app/pipes/quarter.pipe.ts#QuarterPipe#54;</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="260.0" y="158.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/services/db/db.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/chart">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/chart</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/src/app/chart/chart.component.spec.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.spec.ts#Plotly#65;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.spec.ts#SimpleChanges#20;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/chart/chart.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.ts#Plotly#65;D:/kate/диплом/Diplom/BDA-System/src/app/chart/chart.component.ts#SimpleChanges#20;</node>
-            <node x="" y="">Component;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#SimpleChanges#277;</node>
-            <node x="" y="">plotly.js/lib/core</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="246.0" y="222.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/services/db/Date_of_report.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/report-page">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/report-page</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;</node>
-            <node x="" y="">Component;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/services/db/db.service.ts#DbService#353;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/forms/src/form_builder.d.ts#FormBuilder#134;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/forms/src/model.d.ts#FormControl#10479;D:/kate/диплом/Diplom/BDA-System/node_modules/@angular/forms/src/model.d.ts#FormGroup#15619;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/report-page/report-page.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.spec.ts#ReportPageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/report-page/report-page.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#DbService#136;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#FormBuilder#76;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#FormControl#63;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#FormGroup#52;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#ReportPageComponent#184;D:/kate/диплом/Diplom/BDA-System/src/app/report-page/report-page.component.ts#Validators#89;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/forms/src/validators.d.ts#Validators#980;</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.8365079365079365" x="580.381404174573" y="318.14990512333964" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/services/db/sqlite_sequence.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/D:/kate/диплом/Diplom/BDA-System/src/app/infopage">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/src/app/infopage</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/async.d.ts#async#0;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/component_fixture.d.ts#ComponentFixture#302;</node>
-            <node x="" y="">Component;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/infopage/infopage.component.html</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/infopage/infopage.component.spec.ts#ComponentFixture#16;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.spec.ts#InfopageComponent#84;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.spec.ts#TestBed#34;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.spec.ts#async#9;</node>
-            <node x="" y="">$PROJECT_DIR$/src/app/infopage/infopage.component.ts#Component#9;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.ts#InfopageComponent#52;D:/kate/диплом/Diplom/BDA-System/src/app/infopage/infopage.component.ts#OnInit#20;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/src/metadata/lifecycle_hooks.d.ts#OnInit#1111;</node>
-            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/testing/src/test_bed.d.ts#TestBed#1057;</node>
-            <node x="" y="">./assets/img/11.jpg</node>
-            <node x="" y="">./assets/img/12.jpg</node>
-            <node x="" y="">./assets/img/13.jpg</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.5259481037924152" x="434.2637571157495" y="511.91461100569256" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/app/services/db/OPERATIONS.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/contactpage/contactpage.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/contactpage/contactpage.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/contactpage/contactpage.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

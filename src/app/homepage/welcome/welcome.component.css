@@ -1,56 +1,48 @@
 .slider img {
   display: block;
   width: 100%;
-  height: 60%;
+  height: 30%;
 }
-.welcome {
-  margin-left: 120px;
-  margin-bottom: 20px;
-  max-width: 1100px;
-  max-height: 900px;
-  color: black;
-  background-color: lightslategray;
-}
+/*.welcome {*/
+  /*!*margin-left: 120px;*!*/
+  /*margin: 0 auto;*/
+  /*margin-bottom: 20px;*/
+  /*max-width: 1100px;*/
+  /*max-height: 600px;*/
+  /*color: black;*/
+  /*background-color: lightslategray;*/
+/*}*/
 
 .carousel-caption h3 {
   color: white;
-  font-family: Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
+  font-family: 'Spectral SC', serif;
   font-size: 32px;
 }
 
 .carousel-caption p {
   color: white;
-  font-family: Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
+  font-family: 'Spectral SC', serif;
   font-size: 22px;
 }
 
-/*.col {*/
-  /*max-height: 20%;*/
-  /*border: 1px solid transparent;*/
-/*}*/
-
-/*.col p {*/
-  /*text-align: center;*/
-  /*margin-top: 20px;*/
-  /*margin-bottom: 60px;*/
-/*}*/
-
 .col-lg-6 a.btn-default {
-  font-family: Metropolis,Avenir Next,Helvetica Neue,Arial,sans-serif;
+  font-family: 'Spectral SC', serif;
   background-color: #563d7c;
   color: white;
   padding: 10px 40px 10px 40px;
-  font-size: 16px;
+  font-size: 18px;
   border-color: #0E5158;
 }
 
 .col-lg-6 a.btn-default:active, a.btn-default:hover {
+  font-family: 'Spectral SC', serif;
   color: #2a2730;
   background-color: #ffe484;
   border-color: #ffe484;
 }
 
 .row {
+  font-family: 'Spectral SC', serif;
   display: flex;
   flex-wrap: wrap;
   margin-right: -15px;
@@ -58,18 +50,20 @@
   margin-top: 20px;
 }
 
-    .container {
-      width: 100%;
-      padding-right: 15px;
-      padding-left: 15px;
-      margin-right: auto;
-      margin-left: auto;
-    }
+.container {
+  font-family: 'Spectral SC', serif;
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
-p {
+.rounded-circle p{
+  font-family: 'Spectral SC', serif;
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .float-right {
@@ -77,13 +71,15 @@ p {
 
 }
 
-
 .rounded-circle{
-  weight: 100px;
-  height: 140px;
+  border-radius: 70%!important;
+  height: 200px;
 }
 
-
+.featurette-image{
+  height: 300px;
+  width: 400px;
+}
 
 
 

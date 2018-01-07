@@ -1,4 +1,8 @@
 <div class="container">
+  <div class="breadcrumb">
+    <a class="breadcrumb-item" routerLink="/homepage">Главная</a>
+    <span class="breadcrumb-item active">Создать отчет</span>
+  </div>
   <h1 class="center-block">Параметры отчета</h1>
   <form #f="ngForm" class="form-horizontal row row-list" novalidate>
     <div class="form-group col-4 col-md-4">
@@ -8,7 +12,8 @@
       </div>
       <div *ngFor="let bank of allData.Banks; let i = index;">
         <label class="custom-control custom-checkbox">
-          <input type="checkbox" class="custom-control-input" [checked]="!settings.banks[id]" (change)="handleChange(bank.ID)">
+          <input type="checkbox" class="custom-control-input" [checked]="!settings.banks[id]"
+                 (change)="handleChange(bank.ID)">
           <span class="custom-control-indicator"></span>
           <span class="custom-control-description">{{bank.Name_of_banks}}</span>
         </label>
@@ -21,7 +26,8 @@
       </div>
       <div class="radio" *ngFor="let operation of allData.OPERATIONS">
         <label class="custom-control custom-radio">
-          <input type="radio" class="custom-control-input" name="operation" [(ngModel)]="settings.operation" [value]="operation.ID">
+          <input type="radio" class="custom-control-input" name="operation" [(ngModel)]="settings.operation"
+                 [value]="operation.ID">
           <span class="custom-control-indicator"></span>
           <span class="custom-control-description">{{operation.Operation_name}}</span>
         </label>
@@ -48,87 +54,7 @@
     <button type="submit" (click)="drawPlot()" class="btn btn-default"> Сформировать график</button>
     <button type="submit" (click)="exportToTable()" class="btn btn-default">Сформировать таблицу</button>
   </form>
-  <app-chart *ngIf = "showPlot" [plots]="plots"></app-chart>
-  <app-table-export *ngIf = "!showPlot" [tableExport]="tableExport"></app-table-export>
+  <app-chart *ngIf="showPlot" [plots]="plots"></app-chart>
+  <app-table-export *ngIf="!showPlot" [tableExport]="tableExport"></app-table-export>
 </div>
-<!-- Old form -->
-<!-- <form class="form-horizontal">
-  <div class="form-group">
-    <label class="col-sm-2 control-label">Выберите банки для сравнения</label>
-    <br>
-    <div class="col-2 col-md-2">
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">МТБанк</span>
-      </label>
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">Белинвестбанк</span>
-      </label>
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">Белагропромбанк</span>
-      </label>
-      <label class="custom-control custom-checkbox">
-        <input type="checkbox" class="custom-control-input">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">Альфа-Банк</span>
-      </label>
-    </div>
-  </div>
-  <div class="form-group">
-    <label class="col-sm-2 control-label">Выберите показатель сравнения</label>
-    <div>
-      <label class="custom-control custom-radio">
-        <input id="radio1" name="radio" type="radio" class="custom-control-input">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">Собственный капитал</span>
-      </label>
-      <label class="custom-control custom-radio">
-        <input id="radio2" name="radio" type="radio" class="custom-control-input">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">Прибыль</span>
-      </label>
-      <label class="custom-control custom-radio">
-        <input id="radio3" name="radio" type="radio" class="custom-control-input">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">Обязательства</span>
-      </label>
-      <label class="custom-control custom-radio">
-        <input id="radio4" name="radio" type="radio" class="custom-control-input">
-        <span class="custom-control-indicator"></span>
-        <span class="custom-control-description">Кредиты</span>
-      </label>
-    </div>
-  </div>
-  <div class="form-group">
-    <label class="col-sm-2 control-label">Выберите период
-    </label>
-    <div class="col-2 col-md-2">
-      <label class="control-label">c</label>
-      <select class="form-control" id="Year">
-        <option>2017</option>
-        <option>2016</option>
-        <option>2015</option>
-      </select>
-    </div>
-    <div class="col-2 col-md-2">
-      <label class="control-label">по</label>
-      <select class="form-control" id="Year1">
-        <option>2017</option>
-        <option>2016</option>
-        <option>2015</option>
-      </select>
-    </div>
-  </div>
-  <br>
-  <div class="form-group">
-    <div class="col-sm-offset-2 col-sm-10">
-      <button type="submit" class="btn btn-primary">Построить таблицу</button>
-      <button type="submit" class="btn btn-primary">Построить график</button>
-    </div>
-  </div>
-</form> -->
+

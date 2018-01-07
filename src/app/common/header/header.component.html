@@ -1,15 +1,26 @@
 <div>
-<nav  class="navbar navbar-default navbar-static-top">
-  <div  class="container">
-    <div class="navbar-header">
-      <img src="../../assets/img/iicons1.png" class = "icon">
-      <a  routerLink="../login" (click)="toggleState()" class="navbar-text">
-        BDA-System
-      </a>
+  <nav class="navbar navbar-default navbar-static-top">
+    <div class="container">
+      <div class="navbar-header">
+        <img src="../../assets/img/iicons1.png" class="icon">
+        <a routerLink="../homepage" class="navbar-text">
+          BDA-System
+        </a>
+      </div>
+      <ul class="nav justify-content-end">
+        <li class="nav-item">
+          <a class="nav-link" routerLink="../homepage">Главная</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="../infopage">Информация</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="../report-page">Создать отчет</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="../contactpage">Контакты</a>
+        </li>
+      </ul>
     </div>
-    <div id="navbar" class="navbar-collapse">
-      <a routerLink="../report-page" class="btn btn-primary btn-lg" >Создать отчет</a>
-    </div>
-  </div>
-</nav>
+  </nav>
 </div>
